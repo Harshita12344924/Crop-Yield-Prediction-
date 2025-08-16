@@ -4,6 +4,9 @@ A machine learning-powered web application that predicts *crop yield* based on e
 # Project Overview
 This project explores multiple regression models and ultimately deploys a *Decision Tree Regressor* for real-time crop yield prediction using a *Flask* web framework.
 
+# Dataset
+https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset?select=yield_df.csv
+
 # Features
 Predicts crop yield based on:
 Year, Average rainfall (mm/year), Pesticide usage (tonnes), Average temperature, Area, Crop type.
